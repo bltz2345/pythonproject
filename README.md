@@ -1,2 +1,2 @@
 # pythonproject
-영화 추천 사이
+영화 추천 사이트
